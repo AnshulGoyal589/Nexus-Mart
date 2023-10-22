@@ -1,4 +1,4 @@
-# Ecommerce Website
+# Nexus-Mart : Ecommerce Website
 
 Welcome to our Ecommerce Website project! This repository hosts the code for our modern and feature-rich e-commerce platform.
 
@@ -29,11 +29,6 @@ Our e-commerce website is designed to provide an intuitive and seamless shopping
 - **Order Management**: Process and manage orders efficiently, update statuses, and handle refunds if needed.
 - **Customer Management**: Access customer data and history, and manage user accounts.
 - **Analytics and Reports**: Generate reports to analyze sales, inventory, and customer behavior.
-
-
-Of course! If your e-commerce website is not built using React, we'll modify the "Usage" section accordingly. Let's update it to reflect a general usage guide for the e-commerce website:
-
-Certainly! Here's a concise "Usage" section for your README.md:
 
 
 ## Usage
